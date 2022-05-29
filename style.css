@@ -7,7 +7,7 @@ body {
   color: #222222;
   background-color: #f2f4f6;
   background-image: url("img/clean-city-streets-prague.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-position: top center;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 300px;
 }
 
 .hero-image .container {
