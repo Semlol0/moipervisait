@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/clean-city-streets-prague.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -57,16 +57,19 @@ body {
 
 .heading {
   margin: 0 0 16px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 88px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 104px;
   line-height: 96px;
   font-weight: 400;
 }
 
 .hero-image p {
   margin: 0;
-  font-size: 32px;
+  font-size: 22px;
   line-height: 48px;
+  color: #f2f4f6;
+  align-items: flex-end;
+
 }
 
 .intro {
@@ -76,7 +79,7 @@ body {
 .subheading {
   margin: 0 0 56px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 64px;
+  font-size: 20px;
   line-height: 80px;
   font-weight: 400;
   text-align: center;
@@ -192,3 +195,33 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
+.bullon {
+  justify-content: flex-end;
+  background-image: url("img/catherine-palace.jpg")
+  
+}
+
+.text-heading {
+width: 500px;
+margin: 450px 0 0 auto;
+font-family: 'Indie Flower', curvise  ;
+
+}
+
+.img-helper{
+  margin: 450px 0 0 auto;
+  
+}
+
+.pis{
+  margin: 450px 0 0 auto;
+}
+
+.pissec{
+  margin: 300px 0 0 auto;
+  font-size: 20px;
+}
+
+
+
